@@ -14,7 +14,7 @@
   
 ## &#x1f4c8; My GitHub Stats🎯
  
-<h3 align="left">Profile Views: 🧐</h3>
+<h3 align="left">Profile Views: </h3>
   
 ![Profile views](https://gpvc.arturio.dev/Maruti54)
 
