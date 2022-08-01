@@ -16,7 +16,6 @@
  
 <h3 align="left">Profile Views: </h3>
   
-![Profile views](https://gpvc.arturio.dev/Maruti54)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Maruti54&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
  
