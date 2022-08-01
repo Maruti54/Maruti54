@@ -20,17 +20,10 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Maruti54&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
  
-  
-<details><summary>Contribution Graph</summary>
-<p align="left">
-<img width="90%" src="https://activity-graph.herokuapp.com/graph?username=Maruti54&theme=chartreuse-dark&no-frame=false" /></p>
-</details>
-
-  
+    
 
 <p align="left">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Maruti54&show_icons=true&theme=chartreuse-dark&count_private=true&include_all_commits=true" /> 
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Maruti54&theme=chartreuse-dark" />
 </p> 
 
   
