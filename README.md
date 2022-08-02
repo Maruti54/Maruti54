@@ -1,4 +1,4 @@
-<h1 align="center">Hey there, I'm Maruti Patil</h1>
+<h1 align="center">Hello, I'm Maruti Patil</h1>
 
 <h3 align="center">Flutter Enthusiast, Open-source Contributor and Life-Long Learner</h3>
 
