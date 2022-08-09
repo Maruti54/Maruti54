@@ -18,11 +18,6 @@
 ![Profile views](https://gpvc.arturio.dev/Maruti54)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Maruti54&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
-  
-<details><summary>Contribution Graph</summary>
-<p align="left">
-<img width="90%" src="https://activity-graph.herokuapp.com/graph?username=Maruti54&theme=chartreuse-dark&no-frame=false" /></p>
-</details>
 
   
 
